@@ -3,8 +3,10 @@ This Python script uses machine learning to detect fake news in text.
 ## Usage
 *Clone the Repository*: Clone the GitHub repository to your local machine using the following command:
 
-git clone https://github.com/JEEVAfr/Fake-New-Detection-Using-nlp.git
-
+```bash
+>>git clone https://github.com/JEEVAfr/Fake-New-Detection-Using-nlp.git
+>>cd Fake-New-Detection-Using-nlp.git
+```
 ## Installation
 
 The required libraries for this project can be installed using pip:
