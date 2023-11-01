@@ -5,7 +5,7 @@ This Python script uses machine learning to detect fake news in text.
 
 ```bash
 >>git clone https://github.com/JEEVAfr/Fake-New-Detection-Using-nlp.git
->>cd Fake-New-Detection-Using-nlp.git
+>>cd Fake-New-Detection-Using-nlp
 ```
 ## Installation
 
